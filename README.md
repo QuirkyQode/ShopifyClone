@@ -8,7 +8,8 @@ https://main--shopify-clone-css-tailwind.netlify.app/
 
 ## Tech used:
 - HTMLCSS
-- Tail-windSVG
+- Tail-wind
+- SVG
 
 ## Design:
 - ResponsiveBreakpoints implemented for "lg" which is 1024px by default in tailwind
