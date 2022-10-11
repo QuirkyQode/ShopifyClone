@@ -15,6 +15,8 @@ https://main--shopify-clone-css-tailwind.netlify.app/
 - Using tailwind CSS
 
 ## TODO:
+- Give proper hyper-links
+- Implement animations wherever necessary
 - improve finer details.
 
 ## Time-Taken:
